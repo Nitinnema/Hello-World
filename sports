@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My site</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body class="body">
+
+    <!--header section-->
+    <header class="header">
+	    <h1>Sports.tv</h1>
+		<div class="loon">
+		<form name="sign_in" method="post">
+		<input type="email" name="email" id="email" size="25" placeholder="Enter Email">
+		<input type="password" name="password" id="password" placeholder="Password">
+		<input type="submit" value="sign in">
+		<p>Not register? <a href="#"> Click Here </a><p>
+		</form>
+		</div>
+		
+		<!--navigation-->
+        <nav class="navigation">
+		    <ul>
+			    <li><a href="#">Football</a></li>
+		        <li><a href="#">Cricket</a></li>
+			    <li><a href="#">Formula-1</a></li>
+			    <li><a href="#">Boxing</a></li>
+			    <li><a href="#">Baseball</a></li>
+			    <li><a href="#">Tennis</a></li>
+			    <li><a href="#">Badminton</a></li>
+		    </ul>
+	    </nav>
+		
+    </header>
+	
+    <!--section 1-->
+    <section class="sec_1">
+	    <h1>Hello World!!</h1>
+	    <p>This Is The Best Site For The Online Streaming Of Any Type Of Sports Around All Over The World<p>
+    </section>
+	
+	<!--video-->
+	<video class="videobg" autoplay muted loop >
+	    <source src="Pitbull - Superstar (Official Copa America Song) f - 1080P HD.mp4" type="video/mp4">
+		<p>Your Browser Doesn't Support Video</p>
+	</video>	
+	
+	<!--footer-->
+    <footer class="foot">
+	    <h5 class="h5">Contact Us:-</h5>
+	    <p name="copy">Room no. S-10 Saket Bhawan BIET Jhansi Uttar Pradesh India-284128 </p>
+		<p><b>Mob. no.</b>-<big>9634696525</big></p>
+		<p>copyright &copy; and registered &reg; by Nitin Nema Inc.</p>
+		<div class="follow">
+		    <h5>Follow Us:-</h5>
+		    <ul>
+		        <li><a href="#">Facebook</a></li>
+			    <li><a href="#">Twitter</a></li>
+			    <li><a href="#">Instagram</a></li>
+			    <li><a href="#">Pinterest</a></li>
+			    <li><a href="#">Linkedin</a></li>
+		    </ul>
+		</div>	
+		<div>
+		    <form>
+			    <h5>Enquiry:-</h5>
+			    Name: <input type="text" name="name" id="name" size="36"><br /><br />
+				Email: <input type="email" name="email" id="email" size="36"><br /><br />
+				Subject: <textarea rows="5" cols="26" placeholder="Tell us something">
+				</textarea><br /><br />
+				<input class="but" type="button" name="submit" id="submit" value="submit">
+			</form>
+		</div>
+		
+	</footer>
+
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My site</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body class="body">
+
+    <!--header section-->
+    <header class="header">
+	    <h1>Sports.tv</h1>
+		<div class="loon">
+		<form name="sign_in" method="post">
+		<input type="email" name="email" id="email" size="25" placeholder="Enter Email">
+		<input type="password" name="password" id="password" placeholder="Password">
+		<input type="submit" value="sign in">
+		<p>Not register? <a href="#"> Click Here </a><p>
+		</form>
+		</div>
+		
+		<!--navigation-->
+        <nav class="navigation">
+		    <ul>
+			    <li><a href="#">Football</a></li>
+		        <li><a href="#">Cricket</a></li>
+			    <li><a href="#">Formula-1</a></li>
+			    <li><a href="#">Boxing</a></li>
+			    <li><a href="#">Baseball</a></li>
+			    <li><a href="#">Tennis</a></li>
+			    <li><a href="#">Badminton</a></li>
+		    </ul>
+	    </nav>
+		
+    </header>
+	
+    <!--section 1-->
+    <section class="sec_1">
+	    <h1>Hello World!!</h1>
+	    <p>This Is The Best Site For The Online Streaming Of Any Type Of Sports Around All Over The World<p>
+    </section>
+	
+	<!--video-->
+	<video class="videobg" autoplay muted loop >
+	    <source src="Pitbull - Superstar (Official Copa America Song) f - 1080P HD.mp4" type="video/mp4">
+		<p>Your Browser Doesn't Support Video</p>
+	</video>	
+	
+	<!--footer-->
+    <footer class="foot">
+	    <h5 class="h5">Contact Us:-</h5>
+	    <p name="copy">Room no. S-10 Saket Bhawan BIET Jhansi Uttar Pradesh India-284128 </p>
+		<p><b>Mob. no.</b>-<big>9634696525</big></p>
+		<p>copyright &copy; and registered &reg; by Nitin Nema Inc.</p>
+		<div class="follow">
+		    <h5>Follow Us:-</h5>
+		    <ul>
+		        <li><a href="#">Facebook</a></li>
+			    <li><a href="#">Twitter</a></li>
+			    <li><a href="#">Instagram</a></li>
+			    <li><a href="#">Pinterest</a></li>
+			    <li><a href="#">Linkedin</a></li>
+		    </ul>
+		</div>	
+		<div>
+		    <form>
+			    <h5>Enquiry:-</h5>
+			    Name: <input type="text" name="name" id="name" size="36"><br /><br />
+				Email: <input type="email" name="email" id="email" size="36"><br /><br />
+				Subject: <textarea rows="5" cols="26" placeholder="Tell us something">
+				</textarea><br /><br />
+				<input class="but" type="button" name="submit" id="submit" value="submit">
+			</form>
+		</div>
+		
+	</footer>
+
+
+</body>
+</html>
